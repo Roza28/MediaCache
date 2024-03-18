@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "the3.h"
+#include "MediaCache.h"
 
 /*
     Create a cache by reading inputs from stdin
