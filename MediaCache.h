@@ -1,5 +1,5 @@
-#ifndef THE3
-#define THE3
+#ifndef MEDIACACHE
+#define MEDIACACHE
 
 typedef struct Media Media;
 typedef struct CacheNode CacheNode;
